@@ -39,3 +39,8 @@
     }
   }
 }
+
+--add line
+{
+  "AWSTemplateformatversion": "2021-10-24"
+}
